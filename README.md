@@ -1,2 +1,2 @@
-# cave
-A cave of various things. 
+# Basically
+Cave of blocklists, setting files, etc. If you find something useful you're free to use it.
