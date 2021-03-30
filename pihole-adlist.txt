@@ -142,3 +142,4 @@ cdn.hinative.com
 hinative.com
 cs02-pps-drcn.dbankcdn.com.c.cdnhwc1.com
 cs02-pps-drcn.dbankcdn.com.cdn.dnsv1.com
+vortex.data.microsoft.com
